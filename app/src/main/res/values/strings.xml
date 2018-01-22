@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">yifeng</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="splash_copyright">Copyright @2017–2018 一封 | 小灰灰技术支持</string>
+</resources>
